@@ -48,3 +48,16 @@ The system is designed to offer a smooth and seamless experience for both custom
 ### Step 1: Clone the Repository
 ```bash
 git clone https://github.com/IrfanTech-X/BiteOnline.git
+```
+---
+## 👨‍💻 Author
+
+**Name:** Irfan Ferdous Siam  
+**Role:** CSE Undergraduate Student, Green University of Bangladesh    
+**Email:** siamtalukdar3@gmail.com  
+**LinkedIn:** [linkedin.com/in/irfan-ferdous-siam](https://linkedin.com/in/irfan-ferdous-siam)   
+**GitHub:** [github.com/IrfanTech-X](https://github.com/IrfanTech-X) 
+
+> Passionate about programming, cybersecurity, and software engineering.  
+
+
